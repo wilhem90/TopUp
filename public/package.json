@@ -1,5 +1,5 @@
 {
-  "name": "topup",
+  "name": "public",
   "version": "1.0.0",
   "description": "Vamos criar para enviar recarga e cash",
   "main": "index.js",
